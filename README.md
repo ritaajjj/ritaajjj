@@ -43,6 +43,7 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/ritaajjj/ritaajjj/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ritaajjj/ritaajjj/output/snake.svg" alt="Snake animation" />
+
 
 ###
